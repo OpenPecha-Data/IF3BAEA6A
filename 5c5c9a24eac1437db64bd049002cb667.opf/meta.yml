@@ -1,7 +1,7 @@
 id: 5c5c9a24eac1437db64bd049002cb667
 initial_creation_type: ocr
 created_at: 26/09/2021
-last_modified_at: 26/11/2021
+last_modified_at: 2021-12-20 10:25:28.937448
 source_metadata:
   id: bdr:W21848
   title: བུ་སྟོན་གྱི་སྐར་རྩིས་ཕྱོགས་བསྒྲིགས།
@@ -11,3 +11,5 @@ source_metadata:
       title: ''
       base_file: v001.txt
   author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
