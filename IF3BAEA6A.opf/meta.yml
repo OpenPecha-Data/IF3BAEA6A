@@ -1,0 +1,27 @@
+id: IF3BAEA6A
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2021-09-26T10:02:07+00:00'
+last_modified: '2022-06-13T12:54:36.439641+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W21848
+  title: བུ་སྟོན་གྱི་སྐར་རྩིས་ཕྱོགས་བསྒྲིགས།
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  base:
+    D44E:
+      image_group_id: I1KG12340
+      title: ''
+      total_pages: ''
+      order: 1
+      base_file: D44E.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
